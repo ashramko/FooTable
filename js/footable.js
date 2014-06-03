@@ -82,7 +82,7 @@
             },
             classes: {
                 main: 'footable',
-                loading: 'footable-loading',
+                loading: 'footable-loading', 
                 loaded: 'footable-loaded',
                 toggle: 'footable-toggle',
                 disabled: 'footable-disabled',
